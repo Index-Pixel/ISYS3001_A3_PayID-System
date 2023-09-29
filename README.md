@@ -2,9 +2,9 @@
 For Study Assessment
 
 # Disclaimer
-This repository is part of an assessement, so please ignore it if you are not from the university.
+This repository is part of assessment three from ISYS3001-2023-T4 Managing Software Development, so please ignore it if you are not from Southern Cross University.
 
-# Discription
-This repository contains the source code of the new PayID-Feature which customer XXXXX wants to have included in their software.
+# Description
+This repository contains the source code of the new PayID-Feature, which Babu Pillai (Bank customer XYZ) wants to have included in their software.
 
 
